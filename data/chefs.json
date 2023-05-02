@@ -2,49 +2,55 @@
     {
         "id": "ch_001",
         "name": "Gordon Ramsay",
-        "picture": "https://example.com/gordon-ramsay.jpg",
+        "picture": "https://cdn.vox-cdn.com/thumbor/AjJ1Yx01Eu2YUMsWvBmcH8UBo6U=/0x0:3000x2147/1400x1400/filters:focal(1260x834:1740x1314):format(jpeg)/cdn.vox-cdn.com/uploads/chorus_image/image/52781925/ramsay_HKlead.0.jpg",
+        "bio": "Gordon Ramsay is a Scottish chef, restaurateur, writer, and television personality. He has owned and operated several restaurants, including the three-Michelin-starred restaurant Gordon Ramsay in London. He has also hosted numerous television shows, including Hell's Kitchen and MasterChef.",
         "experience_years": 30,
         "recipes": 200,
-        "total_likes": 1000000
+        "total_likes": 1000
     },
     {
         "id": "ch_002",
         "name": "Ina Garten",
-        "picture": "https://example.com/ina-garten.jpg",
+        "picture": "https://www.foodandwine.com/thmb/5unLsehhjHUTG3CU7GjOsMpmgF4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Ina-garten-new-food-network-tv-series-FT-BLOG0222-8ce1460d6041445881d5549a1d3753e1.jpg",
+        "bio": "Ina Garten is an American chef, author, and television personality. She is best known for her cookbook series and her cooking show, Barefoot Contessa. Before becoming a chef, she worked in the White House Office of Management and Budget.",
         "experience_years": 25,
         "recipes": 150,
-        "total_likes": 750000
+        "total_likes": 750
     },
     {
         "id": "ch_003",
         "name": "Bobby Flay",
-        "picture": "https://example.com/bobby-flay.jpg",
+        "picture": "https://caknowledge.com/wp-content/uploads/2022/03/Bobby-Flay-Net-Worth.jpg",
+        "bio": "Bobby Flay is an American chef, restaurateur, and television personality. He has hosted numerous cooking shows, including Grill It! with Bobby Flay and Beat Bobby Flay. He has also owned and operated several restaurants, including Bar Americain and Gato.",
         "experience_years": 35,
         "recipes": 250,
-        "total_likes": 900000
+        "total_likes": 900
     },
     {
         "id": "ch_004",
         "name": "Julia Child",
-        "picture": "https://example.com/julia-child.jpg",
+        "picture": "https://stylecaster.com/wp-content/uploads/2022/03/julia-child-3.png",
+        "bio": "Julia Child was an American chef, author, and television personality. She is best known for introducing French cuisine to the American public through her cookbook, Mastering the Art of French Cooking, and her television show, The French Chef. She was also a pioneer in promoting the use of fresh, locally sourced ingredients.",
         "experience_years": 40,
         "recipes": 100,
-        "total_likes": 500000
+        "total_likes": 500
     },
     {
         "id": "ch_005",
         "name": "Emeril Lagasse",
-        "picture": "https://example.com/emeril-lagasse.jpg",
+        "picture": "https://image.lehighvalleylive.com/home/lvlive-media/width960/img/express-times/photo/2011/06/-b6350804950e1692.jpg",
+        "bio": "Emeril Lagasse is an American chef, restaurateur, and television personality. He is best known for his television shows Emeril Live and Essence of Emeril, as well as his restaurants, including Emeril's and Delmonico's. He is also a bestselling cookbook author and a frequent guest on cooking shows and talk shows.",
         "experience_years": 30,
         "recipes": 175,
-        "total_likes": 800000
+        "total_likes": 800
     },
     {
         "id": "ch_006",
         "name": "Martha Stewart",
-        "picture": "https://example.com/martha-stewart.jpg",
+        "picture": "https://static-prod.adweek.com/wp-content/uploads/2022/12/16x9_Martha-Stewart-x-Titos-_DIYJanuary_-Campaign_5.tif-1.jpg",
+        "bio": "Martha Stewart is an American businesswoman, writer, and television personality. She is best known for her magazine, Martha Stewart Living, and her television shows, including Martha Stewart Living and Martha. She has also written numerous bestselling",
         "experience_years": 35,
         "recipes": 200,
-        "total_likes": 950000
+        "total_likes": 950
     }
 ]
