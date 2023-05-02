@@ -1,0 +1,50 @@
+[
+    {
+        "id": "ch_001",
+        "name": "Gordon Ramsay",
+        "picture": "https://example.com/gordon-ramsay.jpg",
+        "experience_years": 30,
+        "recipes": 200,
+        "total_likes": 1000000
+    },
+    {
+        "id": "ch_002",
+        "name": "Ina Garten",
+        "picture": "https://example.com/ina-garten.jpg",
+        "experience_years": 25,
+        "recipes": 150,
+        "total_likes": 750000
+    },
+    {
+        "id": "ch_003",
+        "name": "Bobby Flay",
+        "picture": "https://example.com/bobby-flay.jpg",
+        "experience_years": 35,
+        "recipes": 250,
+        "total_likes": 900000
+    },
+    {
+        "id": "ch_004",
+        "name": "Julia Child",
+        "picture": "https://example.com/julia-child.jpg",
+        "experience_years": 40,
+        "recipes": 100,
+        "total_likes": 500000
+    },
+    {
+        "id": "ch_005",
+        "name": "Emeril Lagasse",
+        "picture": "https://example.com/emeril-lagasse.jpg",
+        "experience_years": 30,
+        "recipes": 175,
+        "total_likes": 800000
+    },
+    {
+        "id": "ch_006",
+        "name": "Martha Stewart",
+        "picture": "https://example.com/martha-stewart.jpg",
+        "experience_years": 35,
+        "recipes": 200,
+        "total_likes": 950000
+    }
+]
