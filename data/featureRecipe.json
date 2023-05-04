@@ -1,0 +1,32 @@
+[
+    {
+        "id": "1",
+        "name": "New England Clam Chowder",
+        "picture": "https://aromaticessence.co/wp-content/uploads/2022/11/Instant-pot-clam-chowder-featured.jpg"
+    },
+    {
+        "id": "2",
+        "name": "Texas Chili",
+        "picture": "https://www.inspiredtaste.net/wp-content/uploads/2021/11/Texas-Style-Chili-Recipe-5-1200.jpg"
+    },
+    {
+        "id": "3",
+        "name": "Philly Cheesesteak",
+        "picture": "https://www.simplyrecipes.com/thmb/4QRPMwVS6qgbFr2mQVi7hVzuh_0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Simply-Recipes-Philly-Cheesesteak-LEAD-2-b182ca21d19344159d44efd361db1477.jpg"
+    },
+    {
+        "id": "4",
+        "name": "Southern Fried Catfish",
+        "picture": "https://www.thespruceeats.com/thmb/HbE73I7NWN8OmI-lcnXC-vRiuAo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/classic-southern-fried-catfish-recipe-4128796-hero-01-96260272603d4b4c9f607bd70e0b346b.jpg"
+    },
+    {
+        "id": "5",
+        "name": "California Cobb Salad",
+        "picture": "https://www.fifteenspatulas.com/wp-content/uploads/2018/03/Cobb-Salad-Fifteen-Spatulas-2.jpg"
+    },
+    {
+        "id": "6",
+        "name": "New York-Style Pizza",
+        "picture": "https://pizzatoday.com/wp-content/uploads/2021/03/nyslice-1.jpg"
+    }
+]

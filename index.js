@@ -5,6 +5,7 @@ const port = process.env.PORT || 5000;
 
 const chefs = require('./data/chefs.json');
 const recipes = require('./data/recipes.json');
+const featureRecipe = require('./data/featureRecipe.json');
 
 
 app.use(cors())
@@ -33,4 +34,7 @@ app.get('/recipes/:id', (req, res) => {
     res.send(selectedRecipes)
 })
 
+app.get('/feature-recipe', (req, res) => {
+    res.send(featureRecipe)
+})
 app.listen(port, () => console.log(`Server running on ${port}, http://localhost:${port}`));
